@@ -13,7 +13,7 @@ public class Task1 extends BaseClass {
 
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\athvik\\raviworkspace\\selenium\\Drivers\\chromedriver_win32 (1)\\chromedriver.exe");
+				"C:\\Users\\athvik\\Ravi_workspace\\selenium\\Drivers\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
 		driver.get(" https://www.amazon.in/");
